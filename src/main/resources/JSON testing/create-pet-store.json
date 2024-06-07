@@ -1,0 +1,69 @@
+{
+  "name": "Really Cool Pet Store",
+  "address": "8395 North Bladford Lane",
+  "city": "Gangrene",
+  "state": "Georgia",
+  "zip" : "12345",
+  "phone": "+1(817) 466-1437"
+}
+
+{
+  "name": "Puppy Dreams Pet Store",
+  "address": "2401 W Pioneer Pkwy #145",
+  "city": "Pantego",
+  "state": "TX",
+  "zip" : "76013",
+  "phone": "682-808-4956"
+}
+
+
+{
+  "name": "Animal Resource Store",
+  "address": "1840 East Lancaster Ave",
+  "city": "Fort Worth",
+  "state": "TX",
+  "zip" : "76103",
+  "phone": "+18174782741"
+}
+
+
+{
+  "name": "PetSmart Store",
+  "address": "150 Lincoln Dr, Arlington ",
+  "city": "Fort Worth",
+  "state": "TX",
+  "zip": "76006",
+  "phone": "(877) 738-6283"
+}
+
+
+{
+  "pet_store_id": 5,
+  "name": "Pet Store & Supplies",
+  "address": "5335 W Sublett Rd",
+  "city": "Arlington",
+  "state": "TX",
+  "zip": "76017-1183",
+  "phone": "(877) 231-6283"
+}
+
+
+{
+  "name": "Petco Store",
+  "address": "4001 W Green Oaks Blvd
+Ste 159",
+  "city": "Arlington",
+  "state": "TX",
+  "zip" : "76016-4486",
+  "phone": "+1(817) 123-4532"
+}
+
+
+{
+  "name": "Petvet",
+  "address": "2300 E Randol Mill Rd",
+  "city": "Arlington",
+  "state": "TX",
+  "zip" : "76011",
+  "phone": "+1214 034-5248"
+}
