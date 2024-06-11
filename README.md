@@ -1,8 +1,13 @@
-# PetStore API
 
 🤔About the Project: A RESTful API for Pet Stores
-This is a program that lists pet store information and includes the employee and customer information.
-The system will provide users with pet store information, including store employees and customers.
+------
+A hands-on, real world RESTful API web App that allows users to create and manage a pet store and employees, and customers data through CRUD operations. 
+It can be tested using any API testing such as Postman, Swagger of your choice. I tested using Advanced Rest API.
+
+------
+Back-end techs stack: Java, Spring Boot, Spring Boot JPA, Hibernate, RESTful service, Tomcat server
+
+------
 
 Tech Stack
 - Java
@@ -10,15 +15,18 @@ Tech Stack
 - Spring Boot JPA
 - MySQL
 
+------
 Clone:
+- git clone: https://github.com/paulBit3/PetStore-API.git
 
-```git clone https://github.com/paulBit3/PetStore-API.git```
 
 
  Features
  -
  - User can create and retrieve and update store information
  - The API is also designed to list all of the pet stores, and the employees that work for each store and the customers that shop at each store.
+-------
+
 
 Models 
 -
