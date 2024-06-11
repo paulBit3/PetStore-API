@@ -6,18 +6,12 @@ The API allows users to create and manage a pet store and employees, and custome
 It can be tested using any API testing such as Postman, Swagger of your choice. I tested using Advanced Rest API.
 
 ------
-Back-end techs stack: Java, Spring Boot, Spring Boot JPA, Hibernate, RESTful service, Tomcat server
+
+- Back-end techs stack: Java, Spring Boot, Spring Boot JPA, Hibernate, RESTful service, MySQL, and Tomcat server
+
 
 ------
 
-Tech Stack
-- Java
-- Spring Boot
-- Spring Boot JPA
-- MySQL
-
-------
-Clone:
 - git clone: https://github.com/paulBit3/PetStore-API.git
 
 
