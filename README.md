@@ -12,7 +12,7 @@ It can be tested using any API testing such as Postman, Swagger of your choice. 
 
 ------
 
-- git clone: https://github.com/paulBit3/PetStore-API.git
+- ```git clone: https://github.com/paulBit3/PetStore-API.git```
 
 
 
