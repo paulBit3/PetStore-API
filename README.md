@@ -28,7 +28,8 @@ Models
 
 - Customer
   
-```package pet.store.model;
+``` Java
+package pet.store.model;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -148,7 +149,8 @@ public class PetStore {
 
 - Employee
 
-```package pet.store.model;
+```Java
+package pet.store.model;
 
 
 
@@ -210,7 +212,7 @@ Controller
 -
 
 -- Create a pet store
-```
+```Java
 	@PostMapping("api/store")
 	@ResponseStatus(code = HttpStatus.CREATED)
 	public PetStoreData insertStore(@RequestBody PetStoreData psData) {
@@ -236,7 +238,7 @@ Controller
 
 
 -- get all pet store
-```
+```Java
 	//Get all of pet store Rest API
 	@GetMapping("api/store")
 	public List<PetStoreData> retriveAllStores(){
@@ -247,7 +249,7 @@ Controller
 ```
 
 -- Create a customer
-```
+```Java
 	//create pet store customer Rest API
 	@PostMapping("api/store/{pet_store_id}/customer")
 	@ResponseStatus(code = HttpStatus.CREATED)
@@ -260,7 +262,7 @@ Controller
 ```
 
 -- Create an employee
-```
+```Java
 //create pet store employee Rest API
 	@PostMapping("api/store/{pet_store_id}/employee")
 	@ResponseStatus(code = HttpStatus.CREATED)
@@ -277,7 +279,7 @@ Service
 -
 
 -- find of create a store
-```
+```Java
 	//method to find or create a pet store
 	private PetStore findOrCreateStore(Long pet_store_id) {
 		// store entity object
@@ -296,7 +298,7 @@ Service
 
 
 -- Save a store data
-```
+```Java
 //method to save pet store data
 	@Transactional(readOnly = false)
 	public PetStoreData savePetStore(PetStoreData psData) {
