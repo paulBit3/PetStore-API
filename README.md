@@ -1,7 +1,7 @@
 
 🤔About the Project:
 ------
-A hands-on, real world RESTful API web App to manage a pet store.
+A real world RESTful API web App to manage a pet store.
 The API allows users to create and manage a pet store and employees, and customers data through CRUD operations. 
 It can be tested using any API testing tool such as Postman, Swagger of your choice. I tested using Advanced Rest API.
 
